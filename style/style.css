@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Risque&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Risque&family=Roboto:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: 0;
+    background: #E3E2FF;
+}
+.head-nav{
+    margin-top: 40px;
+}
+.container-fluid{
+    position: relative;
+}
+.head-img{
+    Width:338px;
+Height:329px;
+position: absolute;
+left: 282px;
+top: 74px;
+}
+.heading-area{
+    Width:214px;
+Height:35px;
+position: absolute;
+left: 355px;
+top: 418px;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+color: black;
+}
+.paragraph-area{
+position: absolute;
+width: 357px;
+height: 46px;
+left: 273px;
+top: 477px;
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+}
+.baton{
+position: absolute;
+width: 270px;
+height: 60px;
+left: 325px;
+top: 579px;
+background: #0D1A33;
+color: white;
+}
+
+
+.head-img-2{
+position: absolute;
+width: 346px;
+height: 314px;
+left: 770px;
+top: 70px;
+}
+.heading-area-2{
+position: absolute;
+width: 269px;
+height: 35px;
+left: 800px;
+top: 420px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 30px;
+line-height: 35px;
+}
+.paragraph-area-2{
+    position: absolute;
+width: 357px;
+height: 46px;
+left: 735px;
+top: 476px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+
+}
+.baton-2{
+position: absolute;
+width: 270px;
+height: 60px;
+left: 795px;
+top: 580px;
+background: rgba(255, 159, 15, 0.98);
+}
+
+.img-pos{
+    margin50px;
+    margin-left: 100px;
+    font-family: 'Khula', sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 36px;
+line-height: 42px;
+}
+.menu-pos-1{
+    margin-right: 30px;
+    font-family: 'Risque', cursive;
+    font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+color: rgba(255, 159, 15, 0.98);
+
+}
+.menu-pos-2{
+    margin-right: 30px;
+    font-family: 'Risque', cursive;
+    font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+}
+.menu-pos-3{
+    padding-right: 150px;
+    font-family: 'Risque', cursive;
+    font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+
+}
+.btn{
+    font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 23px;
+}
+.row{
+    position: relative;
+}
+.img-pos-1{
+    position: absolute;
+left: 135px;
+top: 65px;
+text-align: center;
+}
